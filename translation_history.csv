@@ -1,0 +1,12 @@
+timestamp,mode,source_lang,target_lang,source_text,translated_text
+2025-10-23 14:48:12,text,hr,de,bonjour,Hallo
+2025-10-23 14:48:27,text,so,de,good day,Guter Tag
+2025-10-23 14:48:28,text,so,de,good day,Guter Tag
+2025-10-23 14:48:30,text,so,de,good day,Guter Tag
+2025-10-23 14:48:32,text,so,de,good day,Guter Tag
+2025-10-23 15:03:05,text,auto,en,h,h
+2025-10-23 15:03:05,text,auto,en,he,he
+2025-10-23 15:03:05,text,auto,en,hel,hel
+2025-10-23 15:03:06,text,auto,en,hell,hell
+2025-10-23 15:03:06,text,auto,en,hello,hello
+2025-10-23 15:03:12,text,auto,arabic,hello,مرحبًا
